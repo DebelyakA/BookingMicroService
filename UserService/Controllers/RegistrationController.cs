@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.MicrosoftExtensions;
+using System.Linq;
 
 namespace UserService.Controllers
 {
@@ -21,6 +22,10 @@ namespace UserService.Controllers
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
+            }
+            if(await _context.User.AnyAsync(u => u.Email == newUser.Email || u.PhoneNumber == newUser.PhoneNumber))
+            {
+                return BadRequest("ѕользователь с такой почтой или номером телефона уже зарегистрирован");
             }
             newUser.Id = Guid.NewGuid();
             newUser.PasswordHash = BCrypt.Net.BCrypt.EnhancedHashPassword(newUser.PasswordHash);

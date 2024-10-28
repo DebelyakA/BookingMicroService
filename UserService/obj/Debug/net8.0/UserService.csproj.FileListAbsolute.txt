@@ -51,3 +51,4 @@ C:\Users\Антон\Desktop\BookingProject\UserService\bin\Debug\net8.0\Microsof
 C:\Users\Антон\Desktop\BookingProject\UserService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Антон\Desktop\BookingProject\UserService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Антон\Desktop\BookingProject\UserService\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Антон\Desktop\BookingProject\UserService\obj\Debug\net8.0\UserService.sourcelink.json
