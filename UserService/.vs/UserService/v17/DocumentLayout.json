@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\userservice\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|solutionrelative:apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\userservice\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|solutionrelative:controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|solutionrelative:userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\userservice\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|solutionrelative:jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\userservice\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|solutionrelative:bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\userservice\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|solutionrelative:apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\userservice\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|solutionrelative:jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B92B1E04-2A23-4F51-911C-A15C03B17442}|UserService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\userservice\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -43,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:05:15.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApiExtensions.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\ApiExtensions.cs",
               "RelativeDocumentMoniker": "ApiExtensions.cs",
@@ -50,12 +63,11 @@
               "RelativeToolTip": "ApiExtensions.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAQwBsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T22:45:58.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T22:45:58.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "JwtProvider.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\JwtProvider.cs",
               "RelativeDocumentMoniker": "JwtProvider.cs",
@@ -63,38 +75,23 @@
               "RelativeToolTip": "JwtProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T21:22:44.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T21:22:44.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UserEntity.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\UserEntity.cs",
               "RelativeDocumentMoniker": "UserEntity.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\UserEntity.cs",
               "RelativeToolTip": "UserEntity.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:13:37.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T17:13:37.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegistrationController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\Controllers\\RegistrationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RegistrationController.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\Controllers\\RegistrationController.cs",
-              "RelativeToolTip": "Controllers\\RegistrationController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:05:15.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "BookingContext.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\BookingContext.cs",
               "RelativeDocumentMoniker": "BookingContext.cs",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "BookingContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:10:22.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T17:10:22.605Z"
             },
             {
               "$type": "Document",
@@ -115,21 +111,19 @@
               "RelativeToolTip": "UserService.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-27T17:04:57.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T17:04:57.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\UserService\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:04:39.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T17:04:39.129Z"
             }
           ]
         }

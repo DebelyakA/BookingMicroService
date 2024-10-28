@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l+IiURhCmJXrTIQwL7cXcA6s+0YKGBc59bzvIjg4xPc=",
+  "Source": "BookingHotelService",
+  "BasePath": "_content/BookingHotelService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
