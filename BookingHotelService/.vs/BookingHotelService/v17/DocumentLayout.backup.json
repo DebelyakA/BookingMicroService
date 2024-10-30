@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\entities\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:entities\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\entities\\roomentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:entities\\roomentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\entities\\hotelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:entities\\hotelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\entities\\roomentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:entities\\roomentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\entities\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:entities\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\dtomodels\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:dtomodels\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\dtomodels\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|solutionrelative:dtomodels\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EE66BF8-3E1E-4920-A1BE-9C6BF19B996B}|BookingHotelService.csproj|c:\\users\\\u0430\u043D\u0442\u043E\u043D\\desktop\\bookingproject\\bookinghotelservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,24 +51,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:04:43.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\DtoModels\\RoomDto.cs",
+              "RelativeDocumentMoniker": "DtoModels\\RoomDto.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\DtoModels\\RoomDto.cs",
+              "RelativeToolTip": "DtoModels\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:15:22.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\DtoModels\\HotelDto.cs",
+              "RelativeDocumentMoniker": "DtoModels\\HotelDto.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\DtoModels\\HotelDto.cs",
+              "RelativeToolTip": "DtoModels\\HotelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:15:10.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HotelController.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Controllers\\HotelController.cs",
               "RelativeDocumentMoniker": "Controllers\\HotelController.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Controllers\\HotelController.cs*",
-              "RelativeToolTip": "Controllers\\HotelController.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "Controllers\\HotelController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T19:56:04.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BookingEntity.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Entities\\BookingEntity.cs",
               "RelativeDocumentMoniker": "Entities\\BookingEntity.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Entities\\BookingEntity.cs*",
-              "RelativeToolTip": "Entities\\BookingEntity.cs*",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Entities\\BookingEntity.cs",
+              "RelativeToolTip": "Entities\\BookingEntity.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T19:23:56.002Z",
@@ -68,8 +119,8 @@
               "Title": "HotelEntity.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Entities\\HotelEntity.cs",
               "RelativeDocumentMoniker": "Entities\\HotelEntity.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Entities\\HotelEntity.cs*",
-              "RelativeToolTip": "Entities\\HotelEntity.cs*",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Entities\\HotelEntity.cs",
+              "RelativeToolTip": "Entities\\HotelEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T19:12:51.199Z",
@@ -77,13 +128,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "RoomEntity.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Entities\\RoomEntity.cs",
               "RelativeDocumentMoniker": "Entities\\RoomEntity.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Entities\\RoomEntity.cs*",
-              "RelativeToolTip": "Entities\\RoomEntity.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Entities\\RoomEntity.cs",
+              "RelativeToolTip": "Entities\\RoomEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T19:10:35.782Z",
               "EditorCaption": ""
@@ -91,27 +142,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Title": "BookingContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\BookingContext.cs",
+              "RelativeDocumentMoniker": "BookingContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\BookingContext.cs",
+              "RelativeToolTip": "BookingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T19:09:46.211Z",
+              "WhenOpened": "2024-10-28T19:07:29.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookingContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\BookingContext.cs",
-              "RelativeDocumentMoniker": "BookingContext.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\BookingContext.cs*",
-              "RelativeToolTip": "BookingContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0442\u043E\u043D\\Desktop\\BookingProject\\BookingHotelService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T19:07:29.547Z",
+              "WhenOpened": "2024-10-28T19:09:46.211Z",
               "EditorCaption": ""
             }
           ]
