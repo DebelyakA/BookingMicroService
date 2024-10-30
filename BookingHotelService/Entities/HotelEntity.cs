@@ -13,7 +13,7 @@ namespace BookingHotelService.Entities
         [Column("hotel_location")]
         public required string HotelLocation { get; set; }
 
-        public List<RoomEntity>? RoomList { get; set; }
+        public ICollection<RoomEntity>? RoomList { get; set; }
 
 
     }

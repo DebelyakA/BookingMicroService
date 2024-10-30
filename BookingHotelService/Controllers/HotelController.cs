@@ -44,18 +44,21 @@ namespace BookingHotelService.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddRoom([FromBody]RoomDto room, string HotelName)
+        public async Task<IActionResult> AddRoom([FromBody]RoomDto room, string hotelName)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
-            var Hotel = await _context.Hotel.FirstOrDefaultAsync(x => x.HotelName == HotelName);
-            if (Hotel == null)
+            //
+            //Изменить поиск отеля, желательно будет создать отдельный метод для этого!
+            //
+            var hotel = await _context.Hotel.FirstOrDefaultAsync(x => x.HotelName == hotelName);
+            if (hotel == null)
             {
                 return NotFound("Отель не найден");
             }
-            var HotelId = Hotel.Id;
+            var HotelId = hotel.Id;
             var newRoom = new RoomEntity
             {
                 Id = Guid.NewGuid(),
@@ -70,6 +73,52 @@ namespace BookingHotelService.Controllers
             await _context.SaveChangesAsync();
             return Ok("Комната успешно добавлена");
             
+        }
+
+        public async Task<IActionResult>FindHotel(string nameOfHotel, string? location)
+        {
+            if(nameOfHotel == null)
+            {
+                return NotFound("Введите название отеля");
+            }
+            if (location != null)
+            {
+                var hotels = await _context.Hotel
+                .AsNoTracking()
+                .Where(n => n.HotelName.StartsWith(nameOfHotel, StringComparison.OrdinalIgnoreCase)
+                && n.HotelLocation.StartsWith(location,StringComparison.OrdinalIgnoreCase))
+                .ToListAsync();
+                return Ok(hotels);
+            }
+            else
+            {
+                var hotels = await _context.Hotel
+                                .AsNoTracking()
+                                .Where(n => n.HotelName.StartsWith(nameOfHotel, StringComparison.OrdinalIgnoreCase))
+                                .ToListAsync();
+                return Ok(hotels);
+            }
+            
+        }
+
+        public async Task<IActionResult> GetAllHotels()
+        {
+            var hotels = await _context.Hotel
+                .AsNoTracking()
+                .ToListAsync();
+            return Ok(hotels);
+        }
+
+        public async Task<IActionResult> GetHotelWithRooms(Guid hotelId)
+        {
+            var hotel = await _context.Hotel
+                .AsNoTracking()
+                .Include(r => r.RoomList)
+                .Where(i => i.Id == hotelId)
+                .FirstOrDefaultAsync();
+            return Ok(hotel);
+                
+                
         }
     }
 }
